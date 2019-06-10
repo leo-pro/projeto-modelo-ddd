@@ -48,9 +48,12 @@ C:\Users\Leonardo\Documents\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoMo
 C:\Users\Leonardo\Documents\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\VBCSCompiler.exe
 C:\Users\Leonardo\Documents\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\Leonardo\Documents\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Antlr3.Runtime.dll
+C:\Users\Leonardo\Documents\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\AutoMapper.dll
 C:\Users\Leonardo\Documents\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\Leonardo\Documents\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\Leonardo\Documents\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Newtonsoft.Json.dll
+C:\Users\Leonardo\Documents\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Domain.dll
+C:\Users\Leonardo\Documents\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Infra.Data2.dll
 C:\Users\Leonardo\Documents\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Helpers.dll
 C:\Users\Leonardo\Documents\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Mvc.dll
 C:\Users\Leonardo\Documents\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Optimization.dll
@@ -59,6 +62,12 @@ C:\Users\Leonardo\Documents\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoMo
 C:\Users\Leonardo\Documents\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.dll
 C:\Users\Leonardo\Documents\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.WebPages.Razor.dll
 C:\Users\Leonardo\Documents\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\WebGrease.dll
+C:\Users\Leonardo\Documents\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.dll
+C:\Users\Leonardo\Documents\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Domain.pdb
+C:\Users\Leonardo\Documents\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Infra.Data2.pdb
+C:\Users\Leonardo\Documents\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\ProjetoModeloDDD.Infra.Data2.dll.config
+C:\Users\Leonardo\Documents\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\AutoMapper.pdb
+C:\Users\Leonardo\Documents\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\AutoMapper.xml
 C:\Users\Leonardo\Documents\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Helpers.xml
 C:\Users\Leonardo\Documents\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Mvc.xml
 C:\Users\Leonardo\Documents\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\System.Web.Optimization.xml
@@ -69,6 +78,7 @@ C:\Users\Leonardo\Documents\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoMo
 C:\Users\Leonardo\Documents\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Newtonsoft.Json.xml
 C:\Users\Leonardo\Documents\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Antlr3.Runtime.pdb
 C:\Users\Leonardo\Documents\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Leonardo\Documents\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\EntityFramework.xml
 C:\Users\Leonardo\Documents\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\pt-br\System.Web.Helpers.resources.dll
 C:\Users\Leonardo\Documents\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\pt-br\System.Web.Mvc.resources.dll
 C:\Users\Leonardo\Documents\Projetos\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.MVC\bin\pt-br\System.Web.Optimization.resources.dll

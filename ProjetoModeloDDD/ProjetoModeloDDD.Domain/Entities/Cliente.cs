@@ -17,7 +17,7 @@ namespace ProjetoModeloDDD.Domain.Entities
 
         public bool Ativo { get; set; }
 
-        private virtual IEnumerable<Produto> Produtos { get; set; }
+        public virtual IEnumerable<Produto> Produtos { get; set; }
 
         public bool ClienteEspecial(Cliente cliente)
         {
